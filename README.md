@@ -85,7 +85,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 | 1 | Hola Mundo | [Replit](https://replit.com/) |
 | 2 | Variables, tipos de datos y operadores | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
 | 3 | Condicionales y bucles | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
-| 4 | Métodos, parámetros y Scanner | [Replit](https://replit.com/) |
+| 4 | Métodos, parámetros y Scanner | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 | 5 | Mini proyecto con POO | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
 ---
@@ -160,7 +160,7 @@ NRC: [Número de NRC]
 | [Integrante 1] | Lección 1: Introducción a Java y Hola Mundo |
 | [Integrante 2] | Lección 2: Variables, tipos de datos y operadores |
 | [Integrante 3] | Lección 3: Condicionales y bucles |
-| [Integrante 4] | Lección 4: Métodos, parámetros y Scanner |
+| [Huaco Oliva, Luis Alonso] | Lección 4: Métodos, parámetros y Scanner |
 | [Integrante 5] | Lección 5: POO y mini proyecto final |
 
 **Fecha de entrega**: [Fecha de entrega]
