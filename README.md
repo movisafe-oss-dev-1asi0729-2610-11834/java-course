@@ -54,9 +54,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 ### Lección 4: Métodos, parámetros y entrada de datos (12 minutos)
 
 - **Descripción**: Aprende a crear métodos para reutilizar código, enviar parámetros y leer datos desde la consola con `Scanner`.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link-4)
+- **Enlace**: [Ver la lección](https://youtu.be/iOEm7Hg73eM?si=qZfo1ud7vbWUQPi9)
 - **Conclusiones clave**: Los métodos ayudan a ordenar el código. Los parámetros permiten que un método reciba información y la use para realizar una tarea.
-- **Práctica**: [Abrir Replit - Métodos y Scanner](https://replit.com/)
+- **Práctica**: [Abrir JDoodle - Variables](https://www.jdoodle.com/online-java-compiler/)
 - **Archivos**:
   - Código inicial: [`starter-files/lesson-04/Main.java`](starter-files/lesson-04/Main.java)
   - Código final: [`completed-examples/lesson-04/Main.java`](completed-examples/lesson-04/Main.java)
