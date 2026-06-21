@@ -1,7 +1,9 @@
-public class Main {
+public class MyClass {
     public static void main(String[] args) {
-        System.out.println("Hola mundo desde Java!");
-        System.out.println("Este es mi primer programa en línea.");
-        System.out.println("Java ejecuta instrucciones en orden, de arriba hacia abajo.");
+        // PASO 1: Nuestro primer mensaje en Java
+        System.out.println("¡Hola Mundo! Bienvenidos al curso básico de Java.");
+        
+        // PASO 2 (RETO): Imprimiendo datos personales
+        System.out.println("Mi nombre es Tomás y me apasiona jugar al fútbol y básquetbol.");
     }
 }

@@ -21,7 +21,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 ### Lección 1: ¿Qué es Java y la programación? (8-10 minutos)
 
 - **Descripción**: Aprende qué es la programación, qué es Java y cómo ejecutar tu primer programa usando un editor online.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link-1)
+- **Enlace**: [Ver la lección](https://youtu.be/PHZHwOWU9-c)
 - **Conclusiones clave**: Programar significa dar instrucciones a una computadora. Java permite crear programas organizados y fáciles de entender cuando se empieza paso a paso.
 - **Empieza a programar**: [Abrir Replit - Hola Mundo](https://replit.com/)
 - **Archivos**:
