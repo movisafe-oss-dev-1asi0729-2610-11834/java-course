@@ -29,10 +29,10 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
   - Código final: [`completed-examples/lesson-01/Main.java`](completed-examples/lesson-01/Main.java)
   - Guion: [`scripts/lesson-01-script.md`](scripts/lesson-01-script.md)
 
-### Lección 2: Variables, tipos de datos y operadores (10-12 minutos)
+### Lección 2: Variables, tipos de datos y operadores (7 minutos)
 
 - **Descripción**: Aprende a guardar información en Java usando variables, tipos de datos y operaciones básicas.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link-2)
+- **Enlace**: [Ver la lección](https://youtu.be/l0VEy9wLK1o)
 - **Conclusiones clave**: Las variables permiten almacenar datos como números, textos y valores verdaderos o falsos. Los operadores permiten realizar cálculos y formar expresiones.
 - **Práctica**: [Abrir JDoodle - Variables](https://www.jdoodle.com/online-java-compiler/)
 - **Archivos**:
@@ -158,7 +158,7 @@ NRC: [Número de NRC]
 | Integrante | Responsabilidad |
 |---|---|
 | [Integrante 1] | Lección 1: Introducción a Java y Hola Mundo |
-| [Integrante 2] | Lección 2: Variables, tipos de datos y operadores |
+| [Higa Kohatsu Alonso Higa] | Lección 2: Variables, tipos de datos y operadores |
 | [Integrante 3] | Lección 3: Condicionales y bucles |
 | [Huaco Oliva, Luis Alonso] | Lección 4: Métodos, parámetros y Scanner |
 | [Integrante 5] | Lección 5: POO y mini proyecto final |
