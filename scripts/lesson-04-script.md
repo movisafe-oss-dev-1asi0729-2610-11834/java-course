@@ -1,7 +1,7 @@
 # Guion de video - Lección 4: Métodos, parámetros y entrada de datos
 
-**Duración sugerida**: 12 minutos  
-**Herramienta**: Replit, JDoodle u OnlineGDB  
+**Duración sugerida**: 10 minutos  
+**Herramienta**: OnlineGDB  
 **Objetivo**: Que el estudiante organice código en métodos y lea datos desde consola.
 
 ## Estructura del video
@@ -13,9 +13,11 @@ Explica que cuando un programa crece, conviene dividirlo en partes pequeñas lla
 Mostrar:
 
 ```java
-public static void showWelcome(String name) {
-    System.out.println("Bienvenido/a, " + name + "!");
-}
+public class Main {
+    public static void main(String[] args) {
+        Scanner lector = new Scanner(System.in);
+    }
+}}
 ```
 
 Explicar que `name` es un parámetro.
@@ -24,25 +26,26 @@ Explicar que `name` es un parámetro.
 Mostrar:
 
 ```java
-Scanner scanner = new Scanner(System.in);
-System.out.print("Ingresa tu nombre: ");
-String name = scanner.nextLine();
+System.out.print("Por favor, escribe tu nombre: ");
+String nombreIngresado = lector.nextLine();
+System.out.print("Ahora, escribe tu edad: ");
+int edadIngresada = lector.nextInt()
 ```
 
 Explicar que `Scanner` permite leer lo que el usuario escribe.
 
-### 7:00 - 10:30 | Método con retorno
+### 7:00 - 08:30 | Método con retorno
 Mostrar:
 
 ```java
-public static int calculateNextAge(int age) {
-    return age + 1;
+saludarUsuario(nombreIngresado, edadIngresada);
+lector.close();
 }
 ```
 
 Explicar que `return` devuelve un resultado.
 
-### 10:30 - 12:00 | Práctica y cierre
+### 08:30 - 10:00 | Práctica y cierre
 Pedir al estudiante agregar otro método, por ejemplo, uno que muestre un mensaje motivador.
 
 ## Checklist de grabación
