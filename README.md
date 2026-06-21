@@ -54,9 +54,9 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 ### Lección 4: Métodos, parámetros y entrada de datos (12 minutos)
 
 - **Descripción**: Aprende a crear métodos para reutilizar código, enviar parámetros y leer datos desde la consola con `Scanner`.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link-4)
+- **Enlace**: [Ver la lección](https://youtu.be/iOEm7Hg73eM?si=qZfo1ud7vbWUQPi9)
 - **Conclusiones clave**: Los métodos ayudan a ordenar el código. Los parámetros permiten que un método reciba información y la use para realizar una tarea.
-- **Práctica**: [Abrir Replit - Métodos y Scanner](https://replit.com/)
+- **Práctica**: [Abrir JDoodle - Variables](https://www.jdoodle.com/online-java-compiler/)
 - **Archivos**:
   - Código inicial: [`starter-files/lesson-04/Main.java`](starter-files/lesson-04/Main.java)
   - Código final: [`completed-examples/lesson-04/Main.java`](completed-examples/lesson-04/Main.java)
@@ -85,7 +85,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 | 1 | Hola Mundo | [Replit](https://replit.com/) |
 | 2 | Variables, tipos de datos y operadores | [JDoodle](https://www.jdoodle.com/online-java-compiler/) |
 | 3 | Condicionales y bucles | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
-| 4 | Métodos, parámetros y Scanner | [Replit](https://replit.com/) |
+| 4 | Métodos, parámetros y Scanner | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 | 5 | Mini proyecto con POO | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
 
 ---
@@ -160,7 +160,7 @@ NRC: [Número de NRC]
 | [Integrante 1] | Lección 1: Introducción a Java y Hola Mundo |
 | [Integrante 2] | Lección 2: Variables, tipos de datos y operadores |
 | [Integrante 3] | Lección 3: Condicionales y bucles |
-| [Integrante 4] | Lección 4: Métodos, parámetros y Scanner |
+| [Huaco Oliva, Luis Alonso] | Lección 4: Métodos, parámetros y Scanner |
 | [Integrante 5] | Lección 5: POO y mini proyecto final |
 
 **Fecha de entrega**: [Fecha de entrega]
