@@ -1,22 +1,40 @@
 public class Main {
+
+    private String titular;
+    private double saldo;
+
+    public Main(String titular, double saldoInicial) {
+        this.titular = titular;
+        this.saldo = saldoInicial;
+    }
+
+    public void depositar(double monto) {
+        saldo += monto;
+    }
+
+    public void retirar(double monto) {
+        if (monto <= saldo) {
+            saldo -= monto;
+        } else {
+            System.out.println("Fondos insuficientes");
+        }
+    }
+
+    public void mostrarInformacion() {
+        System.out.println("Titular: " + titular);
+        System.out.println("Saldo: S/" + saldo);
+    }
+
     public static void main(String[] args) {
-        // TODO: Crea un objeto Student y muestra su información.
-        Student student = new Student("Alex", 15);
-        student.showProfile();
-    }
-}
 
-class Student {
-    private String name;
-    private int age;
+        Main cuenta = new Main("Ana", 1000);
 
-    public Student(String name, int age) {
-        this.name = name;
-        this.age = age;
-    }
+        cuenta.mostrarInformacion();
 
-    public void showProfile() {
-        System.out.println("Estudiante: " + name);
-        System.out.println("Edad: " + age);
+        cuenta.depositar(500);
+
+        cuenta.retirar(200);
+
+        cuenta.mostrarInformacion();
     }
 }
