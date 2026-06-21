@@ -2,18 +2,15 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.print("Ingresa tu nombre: ");
-        String name = scanner.nextLine();
-
-        // TODO: Llama al método showWelcome y envía el nombre como parámetro.
-        showWelcome(name);
-
-        scanner.close();
-    }
-
-    public static void showWelcome(String name) {
-        System.out.println("Bienvenido/a, " + name + "!");
+        Scanner lector = new Scanner(System.in);
+        System.out.print("Por favor, escribe tu nombre: ");
+        String nombreIngresado = lector.nextLine();
+        System.out.print("Ahora, escribe tu edad: ");
+        int edadIngresada = lector.nextInt();
+        saludarUsuario(nombreIngresado, edadIngresada);
+        lector.close();
+    public static void saludarUsuario(String nombre, int edad) {
+        System.out.println("¡Hola " + nombre + "! Qué genial que tengas " + edad + " años.");
+        System.out.println("¡Bienvenido al mundo del código!");
     }
 }
