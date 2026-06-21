@@ -23,7 +23,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 - **Descripción**: Aprende qué es la programación, qué es Java y cómo ejecutar tu primer programa usando un editor online.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link-1)
 - **Conclusiones clave**: Programar significa dar instrucciones a una computadora. Java permite crear programas organizados y fáciles de entender cuando se empieza paso a paso.
-- **Empieza a programar**: [Abrir Replit - Hola Mundo](https://replit.com/)
+- **Empieza a programar**: [Abrir JDoodle - Hola Mundo](https://www.jdoodle.com/ga/9QiPGcC81d9QpdXLHWAyhQ%3D%3D)
 - **Archivos**:
   - Código inicial: [`starter-files/lesson-01/Main.java`](starter-files/lesson-01/Main.java)
   - Código final: [`completed-examples/lesson-01/Main.java`](completed-examples/lesson-01/Main.java)
