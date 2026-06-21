@@ -62,10 +62,10 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
   - Código final: [`completed-examples/lesson-04/Main.java`](completed-examples/lesson-04/Main.java)
   - Guion: [`scripts/lesson-04-script.md`](scripts/lesson-04-script.md)
 
-### Lección 5: Fundamentos de POO y mini proyecto final (14-15 minutos)
+### Lección 5: Fundamentos de POO y mini proyecto final (11 minutos)
 
 - **Descripción**: Aprende qué son las clases, objetos, atributos, constructores, métodos, getters y setters. Como cierre, se construye un registro simple de estudiante.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link-5)
+- **Enlace**: [Ver la lección]([https://www.youtube.com/watch?v=example-link-5](https://youtu.be/KXsubbNXhOc))
 - **Conclusiones clave**: Una clase funciona como un molde y un objeto es un elemento creado desde ese molde. La encapsulación ayuda a proteger los datos usando métodos de acceso.
 - **Proyecto final**: [Abrir OnlineGDB - Proyecto POO](https://www.onlinegdb.com/online_java_compiler)
 - **Archivos**:
