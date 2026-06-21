@@ -12,8 +12,6 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 **Herramientas necesarias**: Solo un navegador web moderno: Chrome, Firefox, Safari o Edge  
 **Repositorio de código fuente**: [https://github.com/usuario/java-fundamentals-course-nombre-equipo](https://github.com/usuario/java-fundamentals-course-nombre-equipo)
 
-> Nota para el equipo: reemplazar los enlaces de YouTube, GitHub y editores online cuando cada integrante termine su video y práctica.
-
 ---
 
 ## Secuencia de la Lección
@@ -77,9 +75,6 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 
 ## Recursos adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/usuario/java-fundamentals-course-nombre-equipo)
-- **Cuestionario de cierre**: [Prueba de conocimientos](https://forms.gle/example-quiz)
-
 | Número de lección | Actividad | Empezar a programar |
 |---|---|---|
 | 1 | Hola Mundo | [Replit](https://replit.com/) |
@@ -131,18 +126,6 @@ java-fundamentals-course-nombre-equipo/
 4. Comparar el resultado con el archivo de `completed-examples`.
 5. Practicar en Replit, JDoodle u OnlineGDB sin instalar herramientas.
 
----
-
-## Recomendaciones para grabar los videos
-
-- Usar zoom alto en el editor online para que el código se lea con claridad.
-- Grabar en un lugar sin ruido.
-- Explicar con palabras simples, evitando jerga técnica innecesaria.
-- Usar pausas cortas para que el estudiante pueda practicar.
-- Verificar que el enlace del video sea de YouTube no listado.
-- Evitar referencias a nombres de autores dentro del video o del código fuente.
-
----
 
 ## Elaboración
 
@@ -150,20 +133,19 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202520  
 Curso: 1ASI0729 Desarrollo de Aplicaciones Open Source  
-NRC: [Número de NRC]
+NRC: [11834]
 
-**Nombre del equipo**: [Nombre del equipo]  
-**Líder del equipo**: [Nombre del líder]
+**Nombre del equipo**: [MoviSafe]  
 
 | Integrante | Responsabilidad |
 |---|---|
-| [Integrante 1] | Lección 1: Introducción a Java y Hola Mundo |
+| [Paredes Diaz, Tomás Alessandro] | Lección 1: Introducción a Java y Hola Mundo |
 | [Higa Kohatsu Alonso Higa] | Lección 2: Variables, tipos de datos y operadores |
-| [Integrante 3] | Lección 3: Condicionales y bucles |
+| [Carlos Lavado, Ever Giuseph] | Lección 3: Condicionales y bucles |
 | [Huaco Oliva, Luis Alonso] | Lección 4: Métodos, parámetros y Scanner |
-| [Integrante 5] | Lección 5: POO y mini proyecto final |
+| [Rudas Chavarria, Jose Gabriel] | Lección 5: POO y mini proyecto final |
 
-**Fecha de entrega**: [Fecha de entrega]
+
 
 ---
 
